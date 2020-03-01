@@ -1,1 +1,3 @@
-# dottap
+# DotTap
+
+Android Game
